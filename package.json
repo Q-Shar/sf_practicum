@@ -1,0 +1,22 @@
+{
+  "name": "lesson_927",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Q-Shar/sf_practicum.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Q-Shar/sf_practicum/issues"
+  },
+  "homepage": "https://github.com/Q-Shar/sf_practicum#readme",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
